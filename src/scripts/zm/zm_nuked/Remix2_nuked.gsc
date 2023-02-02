@@ -303,10 +303,10 @@ bring_random_perk1( machines, machine_triggers ) //checked matches cerberus outp
 	//Perk Indexes
 	/*
 		0 = quick revive
-		1 = double tap
-		2 = speed cola
+		4 = double tap
+		1 = speed cola
 		3 = jugg
-		4 = pack
+		2 = pack
 	*/
 	if ( !isDefined( level.machines_fallen ) )
 	{
